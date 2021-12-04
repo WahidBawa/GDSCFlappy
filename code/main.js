@@ -121,4 +121,4 @@ scene("lose", () => {
 
 })
 
-go("main");
+go("lose");
